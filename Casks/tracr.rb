@@ -1,13 +1,12 @@
 cask "tracr" do
-  version "0.9.1"
-  sha256 "cddcaa4a77836c50cfcc8864838322964703d8bacb7c88ae41cc10af7998d29d"
+  version "0.9.2"
+  sha256 "bcbcee6af8861b3b9c336655431e47add8a2e8c58fa6786879587489a782723f"
 
-  url "https://github.com/JoKeks2023/tracr/releases/download/v#{version}/tracr-#{version}-aarch64.dmg"
+  url "https://github.com/JoKeks2023/tracr/releases/download/v#{version}/tracr-#{version}-universal.dmg"
   name "tracr"
   desc "Local development diary and time ledger"
   homepage "https://tracr.jorisconrad.com/"
 
-  depends_on arch: :arm64
   depends_on :macos
 
   app "tracr.app"

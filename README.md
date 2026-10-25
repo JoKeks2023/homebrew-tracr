@@ -1,6 +1,6 @@
 # homebrew-tracr
 
-Homebrew tap for [tracr](https://github.com/JoKeks2023/tracr), a local development diary and time ledger. macOS on Apple Silicon.
+Homebrew tap for [tracr](https://github.com/JoKeks2023/tracr), a local development diary and time ledger. macOS on Apple Silicon and Intel.
 
 ```sh
 brew tap JoKeks2023/tracr
