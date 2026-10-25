@@ -7,7 +7,6 @@ cask "tracr" do
   desc "Local development diary and time ledger"
   homepage "https://tracr.jorisconrad.com/"
 
-  conflicts_with formula: "tracr-cli"
   depends_on arch: :arm64
   depends_on :macos
 
