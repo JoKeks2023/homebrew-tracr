@@ -4,8 +4,8 @@ Homebrew tap for [tracr](https://github.com/JoKeks2023/tracr), a local developme
 
 ```sh
 brew tap JoKeks2023/tracr
-brew install --cask tracr     # the desktop app
-brew install tracr-cli        # the `tracr` command line tool
+brew install --cask tracr     # the desktop app and the `tracr` command
+# command line only: brew install tracr-cli
 ```
 
 The files are updated by hand after each release.
