@@ -1,6 +1,6 @@
 cask "tracr" do
-  version "0.10.0"
-  sha256 "6495f559261a28841d9e06e02e8f50c5143491cb616ae97cfc055d5cd33c062e"
+  version "0.10.1"
+  sha256 "552264099947b4aa56794257d9c7f3142b80a09b2f145d8000c58897323a6d94"
 
   url "https://github.com/JoKeks2023/tracr/releases/download/v#{version}/tracr-#{version}-universal.dmg"
   name "tracr"
