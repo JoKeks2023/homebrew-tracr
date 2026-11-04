@@ -1,9 +1,9 @@
 class TracrCli < Formula
   desc "Local development diary and time ledger (command line)"
   homepage "https://tracr.jorisconrad.com/"
-  version "0.11.0"
+  version "0.11.1"
   url "https://github.com/JoKeks2023/tracr/releases/download/v0.10.1/tracr-0.10.0-universal-apple-darwin.tar.gz"
-  sha256 "5918e9a9f7f1df51f20bc0793a91e8fc68334dec2b27ebb34bb49ddfdb9ef35d"
+  sha256 "45a49351a6a25ceb4c2adfce66c31fa3dbc99624718381fd7b3ae3671128aca9"
   license "AGPL-3.0-or-later"
 
   conflicts_with cask: "tracr"
